@@ -1,16 +1,37 @@
-### Hi there 👋
+```c
+//Henrique Braga, new student on software development.
 
-<!--
-**henriquegnu/henriquegnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#include <stdio.h>
 
-Here are some ideas to get you started:
+int main (void)
+{
+  printf("Estamos em obras:\n");
+  printf("********************* \n");
+  printf("*                   * \n");
+  printf("*  /   Loading   /  * \n");
+  printf("*                   * \n");
+  printf("*  /####---------/  * 25%\n");
+  printf("*                   * \n");
+  printf("********************* \n");
+  return(0);
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aprendendo, Ferramentas && Tecnologias;
+**Ferramentas:**  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+
+**Tecnologias para Sistemas Web:**  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+**Tecnologias para Sistemas Embarcados:**  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+
+
+
+          
+
+
