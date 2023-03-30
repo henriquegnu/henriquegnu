@@ -5,12 +5,12 @@
 
 int main (void)
 {
-  printf("Estamos em obras:\n");
+  printf("Estamos em obras:\n\n");
   printf("********************* \n");
   printf("*                   * \n");
   printf("*  /   Loading   /  * \n");
   printf("*                   * \n");
-  printf("*  /####---------/  * 25%\n");
+  printf("*  /####---------/  * \n");
   printf("*                   * \n");
   printf("********************* \n");
   return(0);
