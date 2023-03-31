@@ -14,6 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
 
 **Redes Sociais - Clique Para redirecionamento**
+
 <a href="https://www.instagram.com/brasilbytebuilders/"><img src="https://img.icons8.com/fluency/40/null/instagram-new.png" class="media-object  img-responsive img-thumbnail"></a>  <a href="https://chat.whatsapp.com/IHH4MdhmWBkC6FkbKhePKN"><img src="https://img.icons8.com/fluency/40/null/whatsapp.png" class="media-object  img-responsive img-thumbnail"></a> 
 
           
